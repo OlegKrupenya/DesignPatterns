@@ -1,6 +1,7 @@
 package com.testdev.interview.dp.j2ee.presentation.intercepting.filter;
 
 /**
+ * Use Intercepting Filter to pre-process request and post-proc
  * Created by oleh.krupenia on 6/30/2015.
  */
 public class InterceptingFilterClient {
